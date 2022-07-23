@@ -5,7 +5,7 @@
 ![Esse é um print da minha pagina!](apresentacao.gif "Desafio Dio  Angular")
 
 ---
-
+[![GitHub stars](https://img.shields.io/github/stars/Contagiovaneines/Desafio-ecommerce-Dio-Bootcamp-Santander)](https://github.com/Contagiovaneines/Desafio-ecommerce-Dio-Bootcamp-Santander/stargazers) 
 ### Autor Giovane ines
 ---
 
