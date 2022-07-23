@@ -6,6 +6,7 @@
 
 ---
 [![GitHub stars](https://img.shields.io/github/stars/Contagiovaneines/Desafio-ecommerce-Dio-Bootcamp-Santander)](https://github.com/Contagiovaneines/Desafio-ecommerce-Dio-Bootcamp-Santander/stargazers) 
+[![GitHub issues](https://img.shields.io/github/issues/Contagiovaneines/Desafio-ecommerce-Dio-Bootcamp-Santander)](https://github.com/Contagiovaneines/Desafio-ecommerce-Dio-Bootcamp-Santander/issues)
 ### Autor Giovane ines
 ---
 
@@ -42,7 +43,7 @@ O projeto **e-commerce** é um e-commerce que foi criado dentro do curso **Bootc
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
-*  [! [Angular][Angular.io]][Angular-url]
+*  [! [Angular](Angular.io)][Angular-url]
 *  [![Next][Next.js]][Next-url]
 *  [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
