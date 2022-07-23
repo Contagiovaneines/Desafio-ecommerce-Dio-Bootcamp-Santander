@@ -1,0 +1,54 @@
+<div class="cart-top container-fluid">
+  <div class="container d-flex">
+    <div class="items">
+      <a>
+        <img src="https://i.pinimg.com/originals/61/3c/ea/613ceaae3543acdf381af20da47612dc.png" alt="">
+        <h6>Todos os Produtos</h6>
+      </a>
+    </div>
+
+    <div class="items">
+      <a>
+        <img src="https://png.pngtree.com/png-vector/20191026/ourlarge/pngtree-laptop-icon-png-image_1871597.jpg"
+          alt="">
+        <h6>Eletronicos</h6>
+      </a>
+    </div>
+
+    <div class="items">
+      <a>
+        <img
+          src="https://img2.gratispng.com/20180621/apz/kisspng-shopping-customer-computer-icons-pink-shopping-bag-5b2bd1347fe786.3628348815295982605239.jpg"
+          alt="">
+        <h6>Moda</h6>
+      </a>
+    </div>
+
+    <div class="items">
+      <a>
+        <img src="https://www.pngmart.com/files/1/Gold-Rings-Transparent-Background.png" alt="">
+        <h6>JÓIAS</h6>
+      </a>
+    </div>
+
+
+
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <ng-container *ngFor="let item of productList">
+      <div class="card col-md-3">
+        <img src="{{item.image}}" alt="">
+        <h5 class="itemdata">{{item.title}}</h5>
+        <p class="itemdata">{{item.description}}</p>
+        <p><strong>Valor:</strong>R${{item.price}}</p>
+        <p>{{item.category}}</p>
+
+
+        <button class="btn btn-primary" (click)="addtoCart(item)">Adicionar no carrinho</button>
+      </div>
+    </ng-container>
+  </div>
+</div>

@@ -1,27 +1,116 @@
-# Commerce
+# Desafio do curso dio de Angular :earth_americas:
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
+> :milky_way: Repositório publicado para upar o desafio Dio.
 
-## Development server
+![Esse é um print da minha pagina!](apresentacao.gif "Desafio Dio  Angular")
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+---
 
-## Code scaffolding
+### Autor Giovane ines
+---
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<a href="www.linkedin.com/in/giovane-ines">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/98582085?v=4" width="100px;" alt=""/>
 
-## Build
+ <br />
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- 👋 Oi, eu sou @Contagiovaneines Entre em contato!
 
-## Running unit tests
+<div> 
+  <a href="https://www.instagram.com/giovane_ines/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	 <a href="https://discord.gg/CGTUYaED" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contatogiovaneines@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/giovane-ines-153173189/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+# Indice
 
-## Running end-to-end tests
+- [Sobre](#-sobre)
+- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [Configuração de desenvolvimento](#-Configuração-de-desenvolvimento)
+- [Como baixar o projeto](#-como-baixar-o-projeto)
+- [Utilitários](#-Utilitários)
+- [Como baixar o projeto](#-como-baixar-o-projeto)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## 🔖&nbsp; Sobre
 
-## Further help
+O projeto **e-commerce** é um e-commerce que foi criado dentro do curso **Bootcamp Santander Dio** com o intuito de colocarmos em prática todo conteúdo estudado durante o curso.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+---
+
+## 🚀 Tecnologias utilizadas
+
+O projeto foi desenvolvido utilizando as seguintes tecnologias
+
+*  [! [Angular][Angular.io]][Angular-url]
+*  [![Next][Next.js]][Next-url]
+*  [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+
+##### [documentação]: https://angular.io/docs
+##### [api]: https://fakestoreapi.com/
+
+---
+## :robot: Configuração de desenvolvimento
+
+>### Pré-requisitos
+
+- Instale [Node.js] que inclui [Node Package Manager][npm]
+
+### Configurando um projeto
+
+Instale a Angular CLI globalmente:
+
+```
+npm install -g @angular/cli
+```
+
+Criar área de trabalho:
+
+```
+ng new [NOME DO PROJETO]
+```
+
+Execute o aplicativo:
+
+```
+cd [NOME DO PROJETO]
+ng serve
+```
+
+Angular é multiplataforma, rápido, escalável, possui ferramentas incríveis e é amado por milhões.
+
+## Começo rápido
+
+[Comece em 5 minutos][início rápido].
+---
+
+#### **Utilitários**
+
+
+- API: **[Fake Store API][https://fakestoreapi.com/]** &rarr; 
+- Editor: **[Visual Studio Code][vscode]** &rarr; 
+- Teste de API: **[Postman][Postman]**
+
+
+
+---
+>#### 	:eye_speech_bubble: **Como baixar o projeto** 
+```bash
+
+    # Clonar o repositório
+    $ git clone https://github.com/
+
+    # Entrar no diretório
+    $ cd commerce
+
+    # Instalar as dependências
+    $ yarn install
+
+    # Iniciar o projeto
+    $ yarn start
+```
+
+---
+
+
+Desenvolvido  por Giovane ines da silva :milky_way:

@@ -1,0 +1,16 @@
+<header>
+  <div class="navbar navbar-dark bg-primary shadow-sm">
+    <div class="navbar-brand align-item-center d-flex">
+      <i style="font-size: 35px; " class='fas fa-dragon'></i> &nbsp;
+      <strong style="font-size: 25px; ">Nerd-Shop</strong>
+      <div class="form-group">
+        <input type="text" class="form-control" placeholder="Buscar Produtos">
+      </div>
+      <span class="fas fa-search search-icon"></span>
+    </div>
+    <button routerLink="cart" class="btn btn-primary">
+      <i style="font-size: 30px;" class="fas fa-cart-plus"></i>
+      <div class="badge bg-danger">{{totalItemNumber}}</div>
+    </button>
+  </div>
+</header>
