@@ -7,6 +7,8 @@
 ---
 [![GitHub stars](https://img.shields.io/github/stars/Contagiovaneines/Desafio-ecommerce-Dio-Bootcamp-Santander)](https://github.com/Contagiovaneines/Desafio-ecommerce-Dio-Bootcamp-Santander/stargazers) 
 [![GitHub issues](https://img.shields.io/github/issues/Contagiovaneines/Desafio-ecommerce-Dio-Bootcamp-Santander)](https://github.com/Contagiovaneines/Desafio-ecommerce-Dio-Bootcamp-Santander/issues)
+[![GitHub stars](https://img.shields.io/github/stars/Contagiovaneines/Desafio-ecommerce-Dio-Bootcamp-Santander)](https://github.com/Contagiovaneines/Desafio-ecommerce-Dio-Bootcamp-Santander/stargazers)
+[![GitHub license](https://img.shields.io/github/license/Contagiovaneines/Desafio-ecommerce-Dio-Bootcamp-Santander)](https://github.com/Contagiovaneines/Desafio-ecommerce-Dio-Bootcamp-Santander)
 ### Autor Giovane ines
 ---
 
@@ -43,9 +45,9 @@ O projeto **e-commerce** é um e-commerce que foi criado dentro do curso **Bootc
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
-*  [! [Angular](Angular.io)][Angular-url]
-*  [![Next][Next.js]][Next-url]
-*  [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+  - [Node.js](https://nodejs.org/pt-br/)
+  - [Angular](Angular.io)
+  - [Bootstrap](Bootstrap.com)
 
 ##### [documentação]: https://angular.io/docs
 ##### [api]: https://fakestoreapi.com/
@@ -99,7 +101,7 @@ Angular é multiplataforma, rápido, escalável, possui ferramentas incríveis e
 ```bash
 
     # Clonar o repositório
-    $ git clone https://github.com/
+    $ git clone [https://github.com/](https://github.com/Contagiovaneines/Desafio-ecommerce-Dio-Bootcamp-Santander.git)
 
     # Entrar no diretório
     $ cd commerce
